@@ -10,5 +10,5 @@ api_hash="4d69b1b40f6297afb965d9bcb5a8b1f6"
 # The send interval is how long you want to wait between sending messages.
 # The loop interval is how long you want to wait before re-sending messages to all the groups.
 
-send_interval=1
+send_interval=0
 loop_interval=10
